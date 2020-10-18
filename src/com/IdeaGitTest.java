@@ -8,5 +8,6 @@ public class IdeaGitTest {
         System.out.println("dev");
         System.out.println("啦啦");
         System.out.println("dev");
+        int remote=1;
     }
 }
